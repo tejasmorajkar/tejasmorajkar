@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Tejas 👋
 
 <!--
 **tejasmorajkar/tejasmorajkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently building full stack apps using Python, Postgres, Angular and AWS cloud
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on open-source projects 
+- 💬 Ask me about distributed systems, system design, problem solving or anything tech-related
+- 📫 How to reach me: tmorajkar316@gmail.com, https://www.linkedin.com/in/tmorajk/
+- 😄 Pronouns: he/him
