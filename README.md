@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m have over 9 years of experience in building full stack apps using Python, Java, Postgres, MySql, Angular/React and AWS cloud
-- 👯 I’m looking to collaborate on open-source projects
+- 🔭 Software Engineer with over 9 years of experience in Java, Spring, Angular, databases (SQL/NoSQL), message brokers, and AWS cloud services
 - 💬 Ask me about distributed systems, system design, problem solving or anything tech-related
 - 📫 How to reach me: tmorajkar316@gmail.com, https://www.linkedin.com/in/tmorajk/
 - 😄 Pronouns: he/him
